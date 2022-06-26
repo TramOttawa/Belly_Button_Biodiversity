@@ -18,3 +18,6 @@ Roza has a partially completed dashboard that she needs to finish. She has a com
     - The otu_ids as the marker colors
     - The otu_labels as the hover-text values
 * Gauge Chart displays the weekly washing frequency value, 0-19 on the progress round arch
+
+### Please visit the link below:
+https://tramottawa.github.io/Belly_Button_Biodiversity/
